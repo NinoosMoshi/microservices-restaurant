@@ -8,7 +8,7 @@
 #spring.jpa.show-sql=true
 
 server:
-  port: 9090
+  port: 9091
 
 eureka:
   client:
